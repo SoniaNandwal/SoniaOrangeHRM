@@ -1,0 +1,815 @@
+2023-03-29 10:02:00,343  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:02:03,852  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:02:06,833  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:02:09,924  INFO [main] HealthCureProject:44 - open login page
+2023-03-29 10:03:41,693  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:03:45,127  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:03:47,770  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 10:03:51,023  INFO [main] HealthCureProject:44 - open login page
+2023-03-29 13:18:54,034  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 13:18:57,867  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 13:19:01,157  INFO [main] HealthCureProject:64 - open login page
+2023-03-29 13:19:04,976  INFO [main] HealthCureProject:44 - open login page
+2023-03-29 15:21:30,468  INFO [main] LoginHRMProject:64 - open login page
+2023-03-29 15:21:35,784  INFO [main] LoginHRMProject:64 - open login page
+2023-03-29 15:21:39,369  INFO [main] LoginHRMProject:64 - open login page
+2023-03-29 15:21:44,254  INFO [main] LoginHRMProject:44 - open login page
+2023-03-30 11:22:19,683  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 11:22:25,118  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 11:22:30,700  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 11:22:34,999  INFO [main] LoginHRMProject:44 - open login page
+2023-03-30 15:56:05,109  INFO [main] LoginHRMProject:23 - open login page
+2023-03-30 15:57:58,974  INFO [main] LoginHRMProject:23 - open login page
+2023-03-30 16:34:43,188  INFO [main] LoginHRMProject:37 - open PIM report
+2023-03-30 16:34:44,692  INFO [main] LoginHRMProject:23 - open login page
+2023-03-30 17:25:32,418  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 17:25:37,527  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 17:25:42,232  INFO [main] LoginHRMProject:64 - open login page
+2023-03-30 17:25:46,665  INFO [main] LoginHRMProject:44 - open login page
+2023-04-03 22:36:02,129  INFO [main] LoginHRMProject:37 - open PIM report
+2023-04-03 22:36:17,884  INFO [main] LoginHRMProject:23 - open login page
+2023-04-03 22:40:07,417  INFO [main] LoginHRMProject:37 - open PIM report
+2023-04-03 22:40:09,972  INFO [main] LoginHRMProject:23 - open login page
+2023-04-03 22:42:28,677  INFO [main] LoginHRMProject:23 - open login page
+2023-04-04 15:26:17,909  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-04 15:26:19,100  INFO [main] LoginHRMProject:21 - open login page
+2023-04-04 15:27:26,142  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-04 15:27:28,447  INFO [main] LoginHRMProject:21 - open login page
+2023-04-04 15:59:08,747  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-04 15:59:09,526  INFO [main] LoginHRMProject:21 - open login page
+2023-04-04 21:51:03,524  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-04 21:51:04,836  INFO [main] LoginHRMProject:21 - open login page
+2023-04-04 21:54:32,132  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 21:54:35,143  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 21:54:37,949  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 21:54:40,760  INFO [main] LoginHRMProject:44 - open login page
+2023-04-04 22:40:36,033  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:40:42,451  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:40:48,371  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:40:53,985  INFO [main] LoginHRMProject:44 - open login page
+2023-04-04 22:43:44,602  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:43:55,259  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:44:00,445  INFO [main] LoginHRMProject:64 - open login page
+2023-04-04 22:44:07,835  INFO [main] LoginHRMProject:44 - open login page
+2023-04-05 10:26:10,882  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-05 10:26:11,891  INFO [main] LoginHRMProject:21 - open login page
+2023-04-05 10:42:45,590  INFO [main] LoginHRMProject:35 - open PIM report
+2023-04-05 10:42:46,496  INFO [main] LoginHRMProject:21 - open login page
+2023-04-05 10:53:51,966  INFO [main] LoginHRMProject:28 - Open PIM report
+2023-04-05 10:53:52,699  INFO [main] LoginHRMProject:15 - Open login page
+2023-04-05 10:54:47,275  INFO [main] LoginHRMProject:28 - Open PIM report
+2023-04-05 10:54:48,492  INFO [main] LoginHRMProject:15 - Open login page
+2023-04-05 11:24:03,883 ERROR [main] LoginHRMProject:73 - An error occurred during testCancelAllReports test case: no such element: Unable to locate element: {"method":"css selector","selector":"#cancelButton"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:58626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0969c7008f9aea6ee1ab0c9974657a86
+*** Element info: {Using=id, value=cancelButton}
+2023-04-05 11:24:05,311 ERROR [main] LoginHRMProject:59 - An error occurred during testCancelReport test case: no such element: Unable to locate element: {"method":"css selector","selector":"#reportName"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:58626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0969c7008f9aea6ee1ab0c9974657a86
+*** Element info: {Using=id, value=reportName}
+2023-04-05 11:24:06,069 ERROR [main] LoginHRMProject:89 - An error occurred during testCancelAllReports test case: no such element: Unable to locate element: {"method":"css selector","selector":"#reportName"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:58626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0969c7008f9aea6ee1ab0c9974657a86
+*** Element info: {Using=id, value=reportName}
+2023-04-05 11:24:07,050  INFO [main] LoginHRMProject:38 - open PIM report
+2023-04-05 11:24:07,058 ERROR [main] LoginHRMProject:44 - An error occurred during testSearchReport test case: no such element: Unable to locate element: {"method":"css selector","selector":"#reportName"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:58626}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0969c7008f9aea6ee1ab0c9974657a86
+*** Element info: {Using=id, value=reportName}
+2023-04-05 11:24:07,852  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:24:07,853 ERROR [main] LoginHRMProject:26 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:31:40,064 ERROR [main] LoginHRMProject:85 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:31:40,596 ERROR [main] LoginHRMProject:67 - An error occurred during testCancelReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:31:41,051 ERROR [main] LoginHRMProject:105 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:31:41,505 ERROR [main] LoginHRMProject:48 - An error occurred during testSearchReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:31:42,665  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:31:42,666 ERROR [main] LoginHRMProject:26 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:34:25,292  INFO [main] LoginHRMProject:64 - open login page
+2023-04-05 11:34:31,857  INFO [main] LoginHRMProject:64 - open login page
+2023-04-05 11:34:40,312  INFO [main] LoginHRMProject:64 - open login page
+2023-04-05 11:34:42,691  INFO [main] LoginHRMProject:44 - open login page
+2023-04-05 11:39:41,967 ERROR [main] LoginHRMProject:85 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:39:42,824 ERROR [main] LoginHRMProject:67 - An error occurred during testCancelReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:39:43,324 ERROR [main] LoginHRMProject:105 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:39:44,283  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:39:44,283 ERROR [main] LoginHRMProject:26 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:45:20,388 ERROR [main] LoginHRMProject:85 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:45:23,344 ERROR [main] LoginHRMProject:67 - An error occurred during testCancelReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:45:27,653 ERROR [main] LoginHRMProject:105 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:45:32,490 ERROR [main] LoginHRMProject:48 - An error occurred during testSearchReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:45:35,996  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:45:35,998 ERROR [main] LoginHRMProject:26 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:49:20,955 ERROR [main] LoginHRMProject:85 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:49:22,996 ERROR [main] LoginHRMProject:67 - An error occurred during testCancelReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:49:25,670 ERROR [main] LoginHRMProject:105 - An error occurred during testCancelAllReports test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:49:29,258 ERROR [main] LoginHRMProject:48 - An error occurred during testSearchReport test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:49:31,425  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:49:31,428 ERROR [main] LoginHRMProject:26 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:54:29,252  INFO [main] LoginHRMProject:19 - open login page
+2023-04-05 11:54:29,260 ERROR [main] LoginHRMProject:27 - An error occurred during verifyLoginWithValidCredendial test case: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2023-04-05 11:56:31,444  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 12:09:50,254 ERROR [main] LoginHRMProject:32 - An error occurred during verifyLoginWithValidCredendial test case: null value in entry: url=null
+2023-04-05 12:10:11,992 ERROR [main] LoginHRMProject:32 - An error occurred during verifyLoginWithValidCredendial test case: null value in entry: url=null
+2023-04-05 12:12:17,086  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 12:12:28,887 ERROR [main] LoginHRMProject:32 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59001}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6a2d2d172d26169fac3deb10204cd9c
+*** Element info: {Using=xpath, value=//h6[normalize-space()='Dashboard']}
+2023-04-05 12:14:37,650  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 12:24:21,318  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 12:24:55,941 ERROR [main] LoginHRMProject:32 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"link text","selector":"Reports"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59098}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 48be8c665987ea467c6e700a3b40241d
+*** Element info: {Using=link text, value=Reports}
+2023-04-05 12:33:32,946  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 12:34:02,534 ERROR [main] LoginHRMProject:100 - An error occurred during testCancelAllReports test case: no such element: Unable to locate element: {"method":"css selector","selector":"#cancelButton"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d77f26ea08186ab5da5a4972ee5a049b
+*** Element info: {Using=id, value=cancelButton}
+2023-04-05 12:34:33,879 ERROR [main] LoginHRMProject:80 - An error occurred during testCancelReport test case: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d77f26ea08186ab5da5a4972ee5a049b
+*** Element info: {Using=name, value=username}
+2023-04-05 12:35:12,776 ERROR [main] LoginHRMProject:122 - An error occurred during testCancelAllReports test case: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d77f26ea08186ab5da5a4972ee5a049b
+*** Element info: {Using=name, value=username}
+2023-04-05 12:35:55,500 ERROR [main] LoginHRMProject:58 - An error occurred during testSearchReport test case: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:59171}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d77f26ea08186ab5da5a4972ee5a049b
+*** Element info: {Using=name, value=username}
+2023-04-05 12:41:55,661  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:42:06,649  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:42:20,546  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:42:38,032  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:42:52,615  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:42:55,803  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:43:33,021  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 12:47:19,281  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:47:24,840  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:47:26,421  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 12:47:28,574  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:47:31,193  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:47:35,047  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 12:47:39,512  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 16:10:43,079  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 16:33:37,868  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 16:33:49,426  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 16:49:16,602  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 16:49:25,992  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 16:49:33,168  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:08:06,095  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 17:08:16,879  INFO [main] LoginHRMProject:103 - open login page
+2023-04-05 17:08:25,269  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 17:08:32,752  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:10:56,573  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 17:11:05,262  INFO [main] LoginHRMProject:103 - open login page
+2023-04-05 17:11:13,436  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 17:11:21,310  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:33:33,788  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:33:35,680  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:33:37,218  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:33:39,802  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:33:42,809  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:33:45,566  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:33:48,413  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 17:33:54,205  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 17:34:04,033  INFO [main] LoginHRMProject:103 - open login page
+2023-04-05 17:34:13,371  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 17:34:21,653  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:34:29,681 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,683 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 17:34:29,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 17:34:29,686 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 17:34:29,893 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,893 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 17:34:29,894 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 17:34:29,894 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 17:34:29,899 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,901 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 17:34:29,903 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 17:34:29,903 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 17:34:29,912 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,913 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 17:34:29,913 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 17:34:29,913 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 17:34:29,926 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,927 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 17:34:29,928 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 17:34:29,929 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 17:34:29,951 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,952 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 17:34:29,953 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 17:34:29,953 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 17:34:29,977 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,979 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,981 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,982 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,984 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,985 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,987 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,989 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,993 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,995 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:34:29,997 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:29,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 17:34:30,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 17:34:30,001 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 17:34:30,007 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:30,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 17:34:30,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 17:34:30,009 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 17:34:30,014 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:30,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 17:34:30,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 17:34:30,017 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 17:34:30,021 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:30,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 17:34:30,023 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 17:34:30,023 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 17:34:30,038 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:34:30,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 17:34:30,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 17:34:30,042 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 17:39:42,903  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:39:44,972  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:39:46,869  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 17:39:49,750  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:39:53,000  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:39:56,040  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:39:59,224  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 17:40:05,859  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 17:40:17,182  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 17:40:28,600  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 17:40:37,724 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:37,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 17:40:37,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 17:40:37,734 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 17:40:38,079 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,081 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 17:40:38,082 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 17:40:38,084 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 17:40:38,089 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 17:40:38,092 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 17:40:38,094 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 17:40:38,108 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 17:40:38,112 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 17:40:38,113 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 17:40:38,127 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 17:40:38,131 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 17:40:38,132 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 17:40:38,156 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 17:40:38,161 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 17:40:38,162 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 17:40:38,192 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,194 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,197 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,199 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,202 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,206 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,209 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,213 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,214 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 17:40:38,222 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,224 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 17:40:38,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 17:40:38,228 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 17:40:38,237 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,240 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 17:40:38,246 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 17:40:38,247 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 17:40:38,266 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,268 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 17:40:38,270 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 17:40:38,270 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 17:40:38,287 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,295 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 17:40:38,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 17:40:38,322 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 17:40:38,346 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 17:40:38,355 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 17:40:38,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 17:40:38,387 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 17:54:10,394  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 17:54:24,648 ERROR [main] LoginHRMProject:29 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h5[normalize-space()="System Users"]"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.180.164', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 99085e4bc05e001e7ee70cc0c2bf7894
+*** Element info: {Using=xpath, value=//h5[normalize-space()="System Users"]}
+2023-04-05 17:56:31,042  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 17:56:45,003 ERROR [main] LoginHRMProject:29 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h5[normalize-space()="System Users"]"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.180.164', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60451}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5bacf7af91a20edf2b704e32f095e33f
+*** Element info: {Using=xpath, value=//h5[normalize-space()="System Users"]}
+2023-04-05 18:00:13,635  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:06:08,428  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:06:16,265  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:16:22,828  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:16:25,170  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:16:26,880  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:16:29,965  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:16:33,164  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:16:36,322  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:16:39,251  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 18:16:46,231  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 18:16:56,136  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 18:17:05,221  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:17:14,857  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:17:27,153 ERROR [main] LoginHRMProject:29 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.180.164', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9dec16a1c2957daaf461347799291e8
+*** Element info: {Using=xpath, value=//h6[normalize-space()='Dashboard']}
+2023-04-05 18:17:29,139  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:17:37,664  INFO [main] LoginHRMProject:63 - open login page
+2023-04-05 18:17:45,701 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:45,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 18:17:45,708 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 18:17:45,709 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 18:17:46,088 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 18:17:46,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 18:17:46,092 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 18:17:46,097 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 18:17:46,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 18:17:46,101 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 18:17:46,117 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,126 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 18:17:46,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 18:17:46,130 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 18:17:46,157 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 18:17:46,160 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 18:17:46,162 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 18:17:46,204 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 18:17:46,208 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 18:17:46,212 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 18:17:46,252 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,253 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,254 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,256 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,257 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,259 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,261 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,264 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,265 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,266 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,268 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,269 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:17:46,273 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 18:17:46,278 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 18:17:46,280 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 18:17:46,290 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,291 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 18:17:46,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 18:17:46,294 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 18:17:46,302 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 18:17:46,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 18:17:46,309 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 18:17:46,321 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,324 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 18:17:46,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 18:17:46,327 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 18:17:46,350 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:17:46,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 18:17:46,355 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 18:17:46,356 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 18:22:03,736  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:22:05,790  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:22:07,455  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:22:10,127  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:22:13,055  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:22:16,004  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:22:18,725  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 18:22:24,014  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 18:22:33,827  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 18:22:41,875  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:22:50,796  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:23:02,729 ERROR [main] LoginHRMProject:29 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.180.164', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60598}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: eb510d1b3448b25ff6fa6ed972f9658e
+*** Element info: {Using=xpath, value=//h6[normalize-space()='Dashboard']}
+2023-04-05 18:23:05,068  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:23:14,300  INFO [main] LoginHRMProject:63 - open login page
+2023-04-05 18:23:22,112 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 18:23:22,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 18:23:22,119 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 18:23:22,462 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,464 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 18:23:22,465 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 18:23:22,466 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 18:23:22,472 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,475 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 18:23:22,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 18:23:22,482 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 18:23:22,498 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 18:23:22,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 18:23:22,502 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 18:23:22,529 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 18:23:22,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 18:23:22,535 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 18:23:22,576 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,577 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 18:23:22,579 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 18:23:22,582 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 18:23:22,628 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,634 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,638 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,641 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,644 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,646 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,650 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,653 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,655 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,658 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,661 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,664 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:23:22,666 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,668 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 18:23:22,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 18:23:22,677 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 18:23:22,692 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 18:23:22,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 18:23:22,695 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 18:23:22,701 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 18:23:22,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 18:23:22,705 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 18:23:22,712 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 18:23:22,718 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 18:23:22,724 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 18:23:22,747 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:23:22,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 18:23:22,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 18:23:22,759 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 18:35:43,330  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:35:49,496  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:35:56,966  INFO [main] LoginHRMProject:63 - open login page
+2023-04-05 18:54:55,163  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:55:01,239  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:55:08,387  INFO [main] LoginHRMProject:63 - open login page
+2023-04-05 18:55:55,073  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:55:56,629  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:55:57,626  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:55:59,295  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:56:01,407  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:56:03,542  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:56:05,801  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 18:56:10,499  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 18:56:18,638  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 18:56:25,242  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:56:40,653 ERROR [main] LoginHRMProject:90 - An error occurred during verifyLoginWithValidCredendial test case: element not interactable
+  (Session info: MicrosoftEdge=111.0.1661.62)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.180.164', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 111.0.1661.62, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:49193}, msedge: {msedgedriverVersion: 111.0.1661.51 (5b30e0e79e57..., userDataDir: C:\Users\lenovo\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1271cf685d7708240c90cb1d98ecd760
+2023-04-05 18:56:42,525  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:56:48,300  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:56:54,626 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,627 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 18:56:54,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 18:56:54,629 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 18:56:54,764 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 18:56:54,767 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 18:56:54,767 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 18:56:54,770 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,771 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 18:56:54,771 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 18:56:54,771 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 18:56:54,782 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 18:56:54,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 18:56:54,784 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 18:56:54,796 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 18:56:54,798 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 18:56:54,799 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 18:56:54,812 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,812 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 18:56:54,812 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 18:56:54,813 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 18:56:54,832 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,832 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,833 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,834 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,835 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,836 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,838 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,838 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,839 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,841 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,841 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:56:54,844 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 18:56:54,847 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 18:56:54,848 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 18:56:54,852 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 18:56:54,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 18:56:54,854 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 18:56:54,858 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,859 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 18:56:54,860 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 18:56:54,861 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 18:56:54,865 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 18:56:54,868 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 18:56:54,868 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 18:56:54,879 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:56:54,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 18:56:54,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 18:56:54,881 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 18:57:41,704  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:57:43,288  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:57:44,327  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 18:57:45,852  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:57:48,023  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:57:50,077  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:57:52,261  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 18:57:59,277  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 18:58:07,796  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 18:58:16,200  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 18:58:24,466  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 18:58:29,879  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 18:58:36,086 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,088 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 18:58:36,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 18:58:36,091 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 18:58:36,237 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,238 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 18:58:36,239 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 18:58:36,240 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 18:58:36,243 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 18:58:36,245 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 18:58:36,245 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 18:58:36,251 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,252 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 18:58:36,252 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 18:58:36,252 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 18:58:36,265 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,266 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 18:58:36,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 18:58:36,267 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 18:58:36,285 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 18:58:36,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 18:58:36,288 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 18:58:36,307 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,310 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,311 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,312 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,314 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,315 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,316 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,317 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,318 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,319 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,320 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 18:58:36,321 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 18:58:36,322 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 18:58:36,322 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 18:58:36,326 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 18:58:36,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 18:58:36,327 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 18:58:36,332 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,333 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 18:58:36,334 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 18:58:36,334 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 18:58:36,338 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,340 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 18:58:36,342 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 18:58:36,342 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 18:58:36,354 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 18:58:36,355 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 18:58:36,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 18:58:36,357 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 19:17:59,516  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 19:18:01,550  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 19:18:02,803  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 19:18:04,815  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 19:18:07,376  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 19:18:09,764  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 19:18:12,193  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 19:18:17,537  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 19:18:26,504  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 19:18:33,932  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 19:18:41,915  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 19:18:48,666  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 19:18:56,106 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 19:18:56,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 19:18:56,110 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 19:18:56,310 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 19:18:56,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 19:18:56,313 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 19:18:56,317 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,317 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 19:18:56,318 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 19:18:56,318 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 19:18:56,326 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 19:18:56,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 19:18:56,328 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 19:18:56,343 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,344 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 19:18:56,345 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 19:18:56,345 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 19:18:56,362 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,363 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 19:18:56,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 19:18:56,364 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 19:18:56,384 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,385 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,386 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,387 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,389 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,390 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,391 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,393 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,394 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,395 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,397 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 19:18:56,398 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 19:18:56,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 19:18:56,400 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 19:18:56,406 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,407 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 19:18:56,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 19:18:56,408 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 19:18:56,414 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 19:18:56,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 19:18:56,416 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 19:18:56,420 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 19:18:56,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 19:18:56,423 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 19:18:56,434 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 19:18:56,436 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 19:18:56,437 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 19:18:56,437 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2023-04-05 22:10:09,161  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 22:10:15,106  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 22:10:18,538  INFO [main] LoginHRMProject:94 - open login page
+2023-04-05 22:10:21,876  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 22:10:34,827  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 22:10:47,277  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 22:10:54,228  INFO [main] LoginHRMProject:56 - open login page
+2023-04-05 22:11:36,080  INFO [main] LoginHRMProject:50 - open login page
+2023-04-05 22:12:08,494  INFO [main] LoginHRMProject:25 - open login page
+2023-04-05 22:12:23,416  INFO [main] LoginHRMProject:76 - open login page
+2023-04-05 22:12:38,383  INFO [main] LoginHRMProject:20 - open login page
+2023-04-05 22:12:50,865 ERROR [main] LoginHRMProject:29 - An error occurred during verifyLoginWithValidCredendial test case: no such element: Unable to locate element: {"method":"xpath","selector":"//h6[normalize-space()='Dashboard']"}
+  (Session info: chrome=111.0.5563.147)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-RLOOET04', ip: '192.168.43.227', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 111.0.5563.147, chrome: {chromedriverVersion: 111.0.5563.64 (c710e93d5b63..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:50675}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8f400ac98258eaf3e26096e907398f8e
+*** Element info: {Using=xpath, value=//h6[normalize-space()='Dashboard']}
+2023-04-05 22:12:55,398  INFO [main] LoginHRMProject:41 - open login page
+2023-04-05 22:13:05,522 DEBUG [main] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2023-04-05 22:13:05,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2023-04-05 22:13:05,525 DEBUG [main] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2023-04-05 22:13:05,679 DEBUG [main] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2023-04-05 22:13:05,681 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2023-04-05 22:13:05,683 DEBUG [main] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2023-04-05 22:13:05,686 DEBUG [main] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2023-04-05 22:13:05,687 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2023-04-05 22:13:05,688 DEBUG [main] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2023-04-05 22:13:05,697 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2023-04-05 22:13:05,700 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2023-04-05 22:13:05,701 DEBUG [main] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2023-04-05 22:13:05,712 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2023-04-05 22:13:05,716 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2023-04-05 22:13:05,716 DEBUG [main] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2023-04-05 22:13:05,735 DEBUG [main] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,736 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2023-04-05 22:13:05,737 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2023-04-05 22:13:05,737 DEBUG [main] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2023-04-05 22:13:05,755 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,756 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,757 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,763 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,764 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,765 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,767 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,769 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,770 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,772 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,774 DEBUG [main] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2023-04-05 22:13:05,775 DEBUG [main] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,776 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2023-04-05 22:13:05,778 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2023-04-05 22:13:05,778 DEBUG [main] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2023-04-05 22:13:05,783 DEBUG [main] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,784 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2023-04-05 22:13:05,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2023-04-05 22:13:05,786 DEBUG [main] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2023-04-05 22:13:05,794 DEBUG [main] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,796 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2023-04-05 22:13:05,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2023-04-05 22:13:05,797 DEBUG [main] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2023-04-05 22:13:05,804 DEBUG [main] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2023-04-05 22:13:05,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2023-04-05 22:13:05,810 DEBUG [main] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2023-04-05 22:13:05,825 DEBUG [main] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2023-04-05 22:13:05,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2023-04-05 22:13:05,828 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2023-04-05 22:13:05,828 DEBUG [main] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/lenovo/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
